@@ -1,18 +1,10 @@
-# 📄 My generic template
+# 💿 [ボカロ曲 “Amebient”](https://youtu.be/2dqjAGQQmpw) のリソース
 
-## Features
+## ライセンス
 
-- CI/CD
-  - CodeRabbit
-  - ImgBot
-- Documents for GitHub
-- Git attributes
-- Linters
-  - CSpell
-  - EditorConfig
-  - MarkdownLint
-- Visual Studio Code integration
+ここにあるコンテンツは全て、
+[CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
+ライセンスの下で提供しております。
 
-## License
-
-MIT
+非商用目的で、かつ出典の明記のみお守りいただければ、
+無制限のご利用がいただけます。
