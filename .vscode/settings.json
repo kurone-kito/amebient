@@ -4,7 +4,9 @@
   "explorer.fileNesting.patterns": {
     "*.md": "${capture}.*.md",
     ".gitattributes": ".gitignore",
-    ".markdownlint.*": ".markdownlint-cli2.*"
+    ".markdownlint.*": ".markdownlint-cli2.*",
+    "jacket.png": "jacket*.png",
+    "logo.png": "logo*.png"
   },
   "files.associations": {
     ".imgbotconfig": "json",

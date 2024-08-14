@@ -24,6 +24,25 @@
 水に沈む思い出 壊れた世界愛して
 ```
 
+## 画像関係
+
+### ロゴ
+
+|           クレジットなし            |                       クレジット付き                        |
+| :---------------------------------: | :---------------------------------------------------------: |
+| ![Amebient Logo](./images/logo.png) | ![Amebient Logo with credit](./images/logo-with-credit.png) |
+
+#### 使用フォント
+
+- [Coquette Regular](https://fonts.adobe.com/fonts/coquette)
+- [Exo 2 Semibold](https://fonts.google.com/specimen/Exo+2)
+
+### ジャケット
+
+|                             ロゴなし                              |                ロゴ付き                 |
+| :---------------------------------------------------------------: | :-------------------------------------: |
+| ![Amebient Jacket without logo](./images/jacket-without-logo.png) | ![Amebient Jacket](./images/jacket.png) |
+
 ## ライセンス
 
 ここにあるコンテンツは全て、
