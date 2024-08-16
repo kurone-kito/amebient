@@ -24,6 +24,22 @@
 水に沈む思い出 壊れた世界愛して
 ```
 
+## サウンド関係
+
+### Amebient の無劣化版音楽データ
+
+ぜひ、あなたのスマホのボカロフォルダへ！
+
+- [Apple Lossless (ALAC M4A)](./sounds/amebient.alac.m4a)
+- [Free Lossless Audio Codec (FLAC)](./sounds/amebient.flac)
+
+### Instrumental (カラオケ)
+
+歌みた向けのボカロなし版です。
+
+- [Apple Lossless (ALAC M4A)](./sounds/instrument.alac.m4a)
+- [Free Lossless Audio Codec (FLAC)](./sounds/instrument.flac)
+
 ## 画像関係
 
 ### ロゴ

@@ -2,3 +2,6 @@
 .gitattributes export-ignore
 .github/** export-ignore
 .imgbotconfig export-ignore
+
+*.flac binary
+*.m4a binary
