@@ -2,12 +2,6 @@ allowCompoundWords: true
 dictionaries:
   - en_US
   - en-gb
-  - eo
-  - git
-  - lorem-ipsum
-  - markdown
-  - misc
-  - softwareTerms
 enableGlobDot: true
 features:
   weighted-suggestions: true
@@ -20,6 +14,8 @@ ignorePaths:
   - cspell.config.yml
 language: en,eo,ja
 words:
+  - alac
+  - amebient
   - kito
   - kuron
   - kuroné
