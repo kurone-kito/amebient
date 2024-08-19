@@ -2,7 +2,7 @@
 
 ## 歌詞
 
-- [SubViewer 形式の歌詞ファイル](./texts/lyrics.sbv)
+- [SubViewer 形式の歌詞ファイル](https://github.com/kurone-kito/amebient/raw/main/texts/lyrics.sbv)
 
 ```txt
 泡の中漂う 夢の国ここにある
@@ -28,36 +28,39 @@
 
 ### Amebient の無劣化版音楽データ
 
-ぜひ、あなたのスマホのボカロフォルダへ！
+ぜひ、あなたのスマホのボカロプレイリストへ！
 
-- [Apple Lossless (ALAC M4A)](./sounds/amebient.alac.m4a)
-- [Free Lossless Audio Codec (FLAC)](./sounds/amebient.flac)
+- [Apple Lossless (ALAC M4A)](https://github.com/kurone-kito/amebient/raw/main/sounds/amebient.alac.m4a)
+- [Free Lossless Audio Codec (FLAC)](https://github.com/kurone-kito/amebient/raw/main/sounds/amebient.flac)
 
 ### Instrumental (カラオケ)
 
 歌みた向けのボカロなし版です。
 
-- [Apple Lossless (ALAC M4A)](./sounds/instrument.alac.m4a)
-- [Free Lossless Audio Codec (FLAC)](./sounds/instrument.flac)
+- [Apple Lossless (ALAC M4A)](https://github.com/kurone-kito/amebient/raw/main/sounds/instrument.alac.m4a)
+- [Free Lossless Audio Codec (FLAC)](https://github.com/kurone-kito/amebient/raw/main/sounds/instrument.flac)
 
 ## 画像関係
 
 ### ロゴ
 
-|           クレジットなし            |                       クレジット付き                        |
-| :---------------------------------: | :---------------------------------------------------------: |
-| ![Amebient Logo](./images/logo.png) | ![Amebient Logo with credit](./images/logo-with-credit.png) |
+|                                             クレジットなし                                              |                                                               クレジット付き                                                                |
+| :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Amebient Logo](./images/logo.png)](https://github.com/kurone-kito/amebient/raw/main/images/logo.png) | [![Amebient Logo with credit](./images/logo-with-credit.png)](https://github.com/kurone-kito/amebient/raw/main/images/logo-with-credit.png) |
 
 #### 使用フォント
 
-- [Coquette Regular](https://fonts.adobe.com/fonts/coquette)
-- [Exo 2 Semibold](https://fonts.google.com/specimen/Exo+2)
+- ロゴ
+  - [Coquette Regular](https://fonts.adobe.com/fonts/coquette)
+  - [Exo 2 Semibold](https://fonts.google.com/specimen/Exo+2)
+- 歌詞
+  - [イワタ明朝体オールド](https://www.iwatafont.co.jp/font/omin.html)
 
 ### ジャケット
 
-|                             ロゴなし                              |                ロゴ付き                 |
-| :---------------------------------------------------------------: | :-------------------------------------: |
-| ![Amebient Jacket without logo](./images/jacket-without-logo.png) | ![Amebient Jacket](./images/jacket.png) |
+|                                                                       ロゴなし                                                                       |                                                   ロゴ付き                                                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| [![Amebient Jacket without logo](./images/jacket-without-logo.png)](https://github.com/kurone-kito/amebient/raw/main/images/jacket-without-logo.png) | [![Amebient Jacket](./images/jacket.png)](https://github.com/kurone-kito/amebient/raw/main/images/jacket.png) |
 
 ## ライセンス
 
