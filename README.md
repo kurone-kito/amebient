@@ -63,6 +63,12 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 | [![Amebient Jacket without logo](./images/jacket-without-logo.png)](https://github.com/kurone-kito/amebient/raw/main/images/jacket-without-logo.png) | [![Amebient Jacket](./images/jacket.png)](https://github.com/kurone-kito/amebient/raw/main/images/jacket.png) |
 
+### 黒音キトのロゴ
+
+必要に応じてご利用ください。(必須ではありません)
+
+[![Kurone Kito Logo](./images/kk-logo.png)](https://github.com/kurone-kito/amebient/raw/main/images/kk-logo.png)
+
 ## ライセンス
 
 ここにあるコンテンツは全て、
