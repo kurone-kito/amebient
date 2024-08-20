@@ -1,4 +1,4 @@
-# 💿 [ボカロ曲 “Amebient”](https://youtu.be/2dqjAGQQmpw) のリソース
+# 💿 [ボカロ曲 “Amebient”](https://youtu.be/Iv7KoCMuVCA) のリソース
 
 ## 歌詞
 
