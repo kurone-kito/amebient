@@ -26,19 +26,20 @@
 
 ## サウンド関係
 
-### Amebient の無劣化版音楽データ
+### Amebient の音楽データ
 
 ぜひ、あなたのスマホのボカロプレイリストへ！
 
-- [Apple Lossless (ALAC M4A)](https://github.com/kurone-kito/amebient/raw/main/sounds/amebient.alac.m4a)
-- [Free Lossless Audio Codec (FLAC)](https://github.com/kurone-kito/amebient/raw/main/sounds/amebient.flac)
+- 41MB: [【ロスレス】Apple Lossless (ALAC M4A)](https://github.com/kurone-kito/amebient/raw/main/sounds/amebient.alac.m4a)
+- 40MB: [【ロスレス】Free Lossless Audio Codec (FLAC)](https://github.com/kurone-kito/amebient/raw/main/sounds/amebient.flac)
+- 14MB: [MPEG Audio layer-3 (MP3)](https://github.com/kurone-kito/amebient/raw/main/sounds/amebient.mp3)
 
 ### Instrumental (カラオケ)
 
 歌みた向けのボカロなし版です。
 
-- [Apple Lossless (ALAC M4A)](https://github.com/kurone-kito/amebient/raw/main/sounds/instrument.alac.m4a)
-- [Free Lossless Audio Codec (FLAC)](https://github.com/kurone-kito/amebient/raw/main/sounds/instrument.flac)
+- 38MB: [【ロスレス】Apple Lossless (ALAC M4A)](https://github.com/kurone-kito/amebient/raw/main/sounds/instrument.alac.m4a)
+- 38MB: [【ロスレス】Free Lossless Audio Codec (FLAC)](https://github.com/kurone-kito/amebient/raw/main/sounds/instrument.flac)
 
 ## 画像関係
 
