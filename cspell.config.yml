@@ -2,6 +2,10 @@ allowCompoundWords: true
 dictionaries:
   - en_US
   - en-gb
+  - git
+  - markdown
+  - misc
+  - softwareTerms
 enableGlobDot: true
 features:
   weighted-suggestions: true
@@ -13,10 +17,13 @@ ignorePaths:
   - .vscode/extensions.json
   - cspell.config.yml
 language: en,eo,ja
+useGitignore: true
+version: '0.2'
 words:
   - alac
   - amebient
+  - imgbotconfig
   - kito
   - kuron
   - kuroné
-version: '0.2'
+  - waivable
