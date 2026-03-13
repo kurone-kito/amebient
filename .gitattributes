@@ -1,8 +1,12 @@
-.coderabbit.yaml export-ignore
-.git* export-ignore
-.github/** export-ignore
-.imgbotconfig export-ignore
+# Normalize line endings
+* text=auto eol=lf
 
+# Binary files
 *.flac binary
 *.m4a binary
 *.mp3 binary
+
+# Exclude from distribution archives
+.coderabbit.yaml export-ignore
+.git* export-ignore
+.imgbotconfig export-ignore
