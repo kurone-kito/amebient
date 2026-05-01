@@ -12,13 +12,13 @@ features:
 globRoot: ${cwd}
 ignorePaths:
   - .*ignore
+  - .cspell.config.yml
   - .git
   - .github/CODE_OF_CONDUCT.*
   - .vscode/extensions.json
-  - cspell.config.yml
 language: en,ja
 useGitignore: true
-version: '0.2'
+version: "0.2"
 words:
   - alac
   - amebient

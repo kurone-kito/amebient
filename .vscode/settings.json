@@ -4,22 +4,25 @@
   "explorer.fileNesting.patterns": {
     "*.flac": "${capture}.*",
     "*.md": "${capture}.*.md",
-    ".gitattributes": ".gitignore",
+    ".gitattributes": ".gitignore, .gitmessage",
     ".markdownlint.*": ".markdownlint-cli2.*",
     "jacket.png": "jacket*.png",
     "logo.png": "logo*.png"
   },
   "files.associations": {
+    ".gitmessage": "git-commit",
     ".imgbotconfig": "json",
     "LICENSE": "plaintext"
   },
   "git.branchProtection": ["main"],
+  "material-icon-theme.files.associations": {
+    ".imgbotconfig": "robots"
+  },
+  "material-icon-theme.folders.associations": {
+    "texts": "messages"
+  },
   "yaml.schemas": {
-    "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json": [
-      "cspell.config.yml"
-    ],
-    "https://storage.googleapis.com/coderabbit_public_assets/schema.v2.json": [
-      ".coderabbit.yaml"
-    ]
+    "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json": ".cspell.config.yml",
+    "https://storage.googleapis.com/coderabbit_public_assets/schema.v2.json": ".coderabbit.yaml"
   }
 }

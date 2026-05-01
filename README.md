@@ -1,5 +1,10 @@
 # 💿 [ボカロ曲 “Amebient”](https://youtu.be/Iv7KoCMuVCA) のリソース
 
+[![Amebient](./images/logo-with-credit.png)](https://youtu.be/Iv7KoCMuVCA)
+
+[![YouTube Video Likes](https://img.shields.io/youtube/likes/Iv7KoCMuVCA) ![YouTube Video Views](https://img.shields.io/youtube/views/Iv7KoCMuVCA)](https://youtu.be/Iv7KoCMuVCA)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJs_ejHQM0rcemJaeO2s5vA)](https://www.youtube.com/@kuronekito)
+
 ## 歌詞
 
 - [SubViewer 形式の歌詞ファイル](https://github.com/kurone-kito/amebient/raw/main/texts/lyrics.sbv)
